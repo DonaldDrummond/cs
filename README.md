@@ -40,11 +40,6 @@
 | Book | Assignments |
 | --- | --- |
 | Computer Networking: A Top-Down Approach | TODO | 
-| HTTP server | TODO |
-| UDP-based chat app | TODO |
-| Mini TCP stack | TODO |
-| Proxy or load balancer | TODO
-| Distributed hash table | TODO
 
 ### [Databases](https://teachyourselfcs.com/#databases)
 | Book | Assignments |
